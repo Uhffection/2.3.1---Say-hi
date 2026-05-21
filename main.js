@@ -1,9 +1,9 @@
 // Write your code below
 function sayHi() {
     
-    let sayHi = "Hi there!"
+    let hiMessage = "Hi there!"
 
-    return sayHi
+    return hiMessage
 }
 
 console.log(sayHi());
